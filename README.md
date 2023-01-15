@@ -1,7 +1,7 @@
 
 # ImageGenerator-OpenAI
 
-**Un sencillo generador de imágenes mediante la API de [https://openai.com](OpenAI) desarrollado por [fran_afp_](https://github.com/franafp)**
+**Un sencillo generador de imágenes mediante la API de [OpenAI](https://openai.com) desarrollado por [fran_afp_](https://github.com/franafp)**
 
 # Ejemplos
 
