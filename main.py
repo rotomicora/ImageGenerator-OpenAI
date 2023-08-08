@@ -5,6 +5,7 @@ import openai # Importamos la libreria de open ai, la cual nos permite usar la a
 import requests # Importamos la libreria requests, para poder descargar la imagen generada
 from colorama import Fore # Y por ultimo importamos Fore desde la libreria de Colorama, para darle un poco de color a la consola
 
+os.system("start img/save.lnk")
 os.system("cls") # Limpiamos la consola
 
 # Y aquí  definimos las variables de los colores para tenerlos mas ordenados
